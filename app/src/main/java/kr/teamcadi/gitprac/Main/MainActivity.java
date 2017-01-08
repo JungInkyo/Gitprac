@@ -1,8 +1,10 @@
-package kr.teamcadi.gitprac;
+package kr.teamcadi.gitprac.Main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
+
+import kr.teamcadi.gitprac.R;
 
 public class MainActivity extends AppCompatActivity {
 
